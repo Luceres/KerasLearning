@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a6887f7a-b172-4719-bf13-55c22f495066</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>KerasLearning.py</StartupFile>
+    <StartupFile>Sequential.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="KerasLearning.py" />
+    <Compile Include="Sequential.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="pima-indians-diabetes.csv" />
